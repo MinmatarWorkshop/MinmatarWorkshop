@@ -12,5 +12,8 @@
 | ------------------|:---------:|:---------:|:---------:|:---------:|
 | 2 wire			|			|	x		|	x		|			|
 | 3 wire powered	|	x		|	x		|	x		|			|	
-| 3 wire check		|			|	x		|	x		|	x		|
+| 3 wire sig check	|           |	x		|	x		|	x		|
 | 4 wire pwd/check	|	x		|	x		|	x		|	x		|
+
+
+
