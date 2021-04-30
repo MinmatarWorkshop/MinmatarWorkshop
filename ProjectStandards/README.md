@@ -7,7 +7,8 @@
 #### Switch, End-Stops
 
 
-| Wires				| pw pin	| GRD		| signal	| inv signal|
+| Wires				| power 	| GRD		| signal	| inv signal|
+| Wires				| pin 1	 	| pin 2		| pin 3 	| pin 4     |
 | ------------------|:---------:|:---------:|:---------:|:---------:|
 | 2 wire			|			|	x		|	x		|			|
 | 3 wire powered	|	x		|	x		|	x		|			|	
